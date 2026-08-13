@@ -34,5 +34,5 @@ cd CPU-Scheduling-Simulator```
 
 ## Install Dependencies:
 pip install matplotlib numpy
-##Launch Simulator:
+## Launch Simulator:
 python main.py
